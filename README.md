@@ -9,8 +9,7 @@
 <h3 align="center">UAVs • Robotics • AI</h3>
 
 <p align="center">
-A community for learning, building, and innovating in autonomous technologies.
-</p>
+A community for learning, building, and innovating in drone and engineering technologies.</p>
 
 <p align="center">
 Learn • Build • Innovate
