@@ -10,8 +10,7 @@
 </p>
 <p></p>
 <p></p>
-<h3 align="center">UAVs • Robotics • AI</h3>
-
+<p align="center" style="color: #90A4AE;"><b>UAVs • Robotics • AI</b></p>
 <p align="center">
 A community for learning, building, and innovating in drone and engineering technologies.</p>
 
