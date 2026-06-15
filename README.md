@@ -9,9 +9,7 @@
   <img src="dcnj9ee-52e72366-25bf-4394-b39d-1033b1ef7309.gif" width="300">
 </p>
 
-<p></p>
-<p></p>
-<p></p>
+
 
 <p align="center" style="color: #90A4AE;"><b>UAVs • Robotics • AI</b></p>
 <p align="center">
