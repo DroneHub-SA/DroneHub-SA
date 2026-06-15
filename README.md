@@ -11,6 +11,4 @@
 <p align="center">
 A community for learning, building, and innovating in drone and engineering technologies.</p>
 
-<p align="center">
-Learn • Build • Innovate
-</p>
+
