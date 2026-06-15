@@ -11,9 +11,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UAVs-Drone%20Tech-black?style=for-the-badge&logo=drone&logoColor=white&color=1A1A1A" alt="UAVs">
-  <img src="https://img.shields.io/badge/Robotics-Autonomous-black?style=for-the-badge&logo=robot&logoColor=white&color=0E2F44" alt="Robotics">
-  <img src="https://img.shields.io/badge/AI-%26%20Computer%20Vision-black?style=for-the-badge&logo=openai&logoColor=white&color=2C3E50" alt="AI">
+  <img src="https://img.shields.io/badge/UAVs-DRONE%20TECH-black?style=for-the-badge&logo=drone&logoColor=white&color=2C3E50" alt="UAVs">
+  <img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS-black?style=for-the-badge&logo=robot&logoColor=white&color=1A1A1A" alt="Robotics">
+  <img src="https://img.shields.io/badge/AI-DEEP%20LEARNING-black?style=for-the-badge&logo=openai&logoColor=white&color=2E4053" alt="AI">
+  <img src="https://img.shields.io/badge/VISION-COMPUTER%20VISION-black?style=for-the-badge&logo=opencv&logoColor=white&color=34495E" alt="Computer Vision">
 </p>
 
 <p align="center" style="color: #8892B0; font-size: 16px; font-family: 'Fira Code', monospace;">
