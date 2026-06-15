@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="Image.gif" width="500">
+  <img src="Image" width="500">
 </p>
 
 <h3 align="center">UAVs • Robotics • AI</h3>
