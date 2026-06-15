@@ -1,41 +1,11 @@
-<h1 align="center">🚀 DroneHub-SA</h1>
-
 <p align="center">
-A community dedicated to UAVs, Robotics, AI, and Autonomous Systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+DroneHub-SA+🚀" />
 </p>
 
----
-
-## About Us
-
-DroneHub-SA is a platform that brings together enthusiasts, students, and developers interested in advanced technologies, including:
-
-- ✈️ Unmanned Aerial Vehicles (UAVs)
-- 🤖 Robotics
-- 🧠 Artificial Intelligence
-- 📡 Autonomous Systems
-- 💻 Embedded Systems
-- 🔧 Engineering Design
-
----
-
-## Our Mission
-
-To create a collaborative environment that encourages learning, innovation, and practical experience through technical activities and engineering projects.
-
----
-
-## Areas of Interest
-
-- Drone Design & Development
-- Flight Controllers & Autopilots
-- Computer Vision
-- ROS2 & Robotics Software
-- AI Applications
-- Electronics & Hardware Integration
-
----
+<p align="center">
+UAVs • Robotics • AI
+</p>
 
 <p align="center">
-Building knowledge, sharing experience, and inspiring innovation.
+Learn • Build • Innovate
 </p>
