@@ -1,9 +1,7 @@
 
-<p></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=79C1F2&center=true&vCenter=true&width=900&lines=Welcome+to+DroneHub-SA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&pause=1000&color=79C1F2&center=true&vCenter=true&width=1000&lines=Welcome+to+DroneHub-SA" />
 </p>
-
 
 <p align="center">
   <img src="dcnj9ee-52e72366-25bf-4394-b39d-1033b1ef7309.gif" width="200">
