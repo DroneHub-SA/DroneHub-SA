@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&pause=1000&color=79C1F2&center=true&vCenter=true&width=1000&height=140&lines=Welcome+to+DroneHub-SA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=79C1F2&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+DroneHub-SA" />
 </p>
 
 <p align="center">
