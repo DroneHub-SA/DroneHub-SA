@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=33&pause=1000&color=79C1F2&center=true&vCenter=true&width=1000&height=80&lines=Welcome+to+DroneHub-SA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=79C1F2&center=true&vCenter=true&width=1000&height=80&lines=Welcome+to+DroneHub-SA" />
 </p>
 
 <p align="center">
-  <img src="dcnj9ee-52e72366-25bf-4394-b39d-1033b1ef7309.gif" width="200">
+  <img src="dcnj9ee-52e72366-25bf-4394-b39d-1033b1ef7309.gif" width="250">
 </p>
 
 
