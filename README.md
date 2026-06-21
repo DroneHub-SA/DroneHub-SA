@@ -10,6 +10,6 @@
 
 <p align="center"><b>UAVs • Robotics • AI</b></p>
 
-<p align="center" style="color: #8892B0; font-size: 16px; font-family: 'Fira Code', monospace;">
+<p align="center" style="color: #8892B0; font-size: 12px; font-family: 'Fira Code', monospace;">
 A community for learning, building, and innovating in drone and engineering technologies.
 </p>
