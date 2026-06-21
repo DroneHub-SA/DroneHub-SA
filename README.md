@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79C1F2&center=true&vCenter=true&repeat=true&width=400&lines=Welcome+to+DroneHub-SA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=79C1F2&center=true&vCenter=true&repeat=true&width=400&lines=Welcome+to+DroneHub-SA" />
 
   <br><br>
 
